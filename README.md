@@ -13,7 +13,7 @@ This was started after a complete purge of `.wine*` from the system, but tested 
 ## Updated Steps to Install Logos on Linux with `winehq-staging=8.7`
 
 - Run the following commands to install Wine staging
-- Skip to [START HERE](**START HERE if you already have `winehq-staging` installed**) if you already have everything installed
+- Skip to [START HERE](## **START HERE if you already have `winehq-staging` installed**) if you already have everything installed
 
 ## Install `winehq-staging`
 
